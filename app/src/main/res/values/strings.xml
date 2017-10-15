@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Waterfall</string>
+    <array name="cards">"@drawable/c2_of_clubs"</array>
+    <string name="button_text">Flip</string>
+    <string name="cardview">Cardview</string>
+    <string name="player_turn">input</string>
+</resources>
